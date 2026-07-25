@@ -164,12 +164,20 @@ function buildTechStackBlock(languageIcons, manifestIcons) {
       
       const techs = groups[category];
       const cols = techs.length;
-      const cols_header = Array(cols).fill(0).map(() => "|").join(" ");
-      const cols_sep = Array(cols).fill(0).map(() => "|---|").join("");
+      
+      // Build header row with empty cells
+      const header_cells = Array(cols).fill(" ").join(" | ");
+      
+      // Build separator row
+      const sep_cells = Array(cols).fill("---").join("|");
+      
+      // Build icons row
       const icons_row = techs.map((t) => `<img src="https://skillicons.dev/icons?i=${t.icon}" />`).join(" | ");
+      
+      // Build names row
       const names_row = techs.map((t) => t.name).join(" | ");
       
-      return `**${category}**\n\n| ${cols_header}\n${cols_sep}|\n| ${icons_row} |\n| ${names_row} |`;
+      return `**${category}**\n\n| ${header_cells} |\n|${sep_cells}|\n| ${icons_row} |\n| ${names_row} |`;
     })
     .filter(Boolean)
     .join("\n\n");
