@@ -167,14 +167,14 @@
 ## GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" width="48%" style="margin:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=compact&theme=dark" alt="Top languages" width="48%" style="margin:10px;" />
+  <a href="https://github.com/KanwalAi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-KanwalAi-7C3AED?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-Profile-2563EB?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&theme=dark" alt="GitHub Streak" />
+<p align="center" style="color:#A5B4FC; font-size:14px;">
+  View my GitHub profile for real-time stats, contributions, and activity.
 </p>
 
 <br/>
