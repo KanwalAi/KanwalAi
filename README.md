@@ -23,10 +23,10 @@
       </p>
       <p style="margin:0;">
         <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-        <a href="https://your-portfolio-REPLACE_ME.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/Resume-PDF-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/kanwal-fatima-72a352357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/Contact-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -62,7 +62,7 @@
 
 ## Tech Stack
 
-<p align="center" style="color:#A5B4FC;">Auto-detected from public repositories and project manifests.</p>
+<p align="center" style="color:#A5B4FC;">Auto-detected from repositories and project manifests.</p>
 
 <!--START_TECH_STACK-->
 <p align="center" style="color:#A5B4FC;">Auto-detected from repositories and manifest files.</p>
@@ -201,9 +201,9 @@
 
 <p align="center">
   <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-REPLACE_ME.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kanwal-fatima-72a352357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/Contact-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center" style="margin-top:18px; color:#A5B4FC;">Made with ❤️ by Kanwal Fatima</p>
