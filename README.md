@@ -65,9 +65,12 @@
 <p align="center" style="color:#A5B4FC;">Auto-detected from public repositories and project manifests.</p>
 
 <!--START_TECH_STACK-->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts,react,next,ros,opencv,pytorch" />
-</p>
+<p align="center" style="color:#A5B4FC;">Auto-detected from repositories and manifest files.</p>
+<p align="center"><b>Languages</b> · <img src="https://skillicons.dev/icons?i=py,php,js,cs,cpp" /></p>
+<p align="center"><b>Frontend</b> · <img src="https://skillicons.dev/icons?i=js" /></p>
+<p align="center"><b>Backend</b> · <img src="https://skillicons.dev/icons?i=php" /></p>
+<p align="center"><b>AI / ML</b> · <img src="https://skillicons.dev/icons?i=py" /></p>
+<p align="center"><b>Embedded</b> · <img src="https://skillicons.dev/icons?i=cpp" /></p>
 <!--END_TECH_STACK-->
 
 <br/>
@@ -83,7 +86,41 @@
       <h3 style="margin:0 0 8px; color:#F8FAFC;">OpticCli</h3>
       <p style="margin:0 0 10px; color:#DDEBFF;">AI-assisted Windows desktop application that translates natural language into PowerShell commands with risk analysis and visual output.</p>
       <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/C%23-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> <img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" /></p>
+      <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/artificial-intelligence-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/csharp-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/desktop-application-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/dotnet-8B5CF6?style=flat-square" /></p>
       <p style="margin:0;"><a href="https://github.com/KanwalAi/OpticCli">Repository ↗</a></p>
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:12px;">
+  <tr>
+    <td style="background:linear-gradient(135deg,rgba(37,99,235,0.16),rgba(124,58,237,0.14)); border-radius:20px; padding:18px;">
+      <h3 style="margin:0 0 8px; color:#F8FAFC;">RainRover-AI</h3>
+      <p style="margin:0 0 10px; color:#DDEBFF;">An autonomous Arduino-powered mobile robot featuring IR-based line following, ultrasonic self-parking algorithms, and a weather-responsive convertible rooftop system integrated through physical AI.</p>
+      <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/C%2B%2B-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> <img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" /></p>
+      <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/arduino-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/automation-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/autonomous-vehicles-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/cpp-8B5CF6?style=flat-square" /></p>
+      <p style="margin:0;"><a href="https://github.com/KanwalAi/RainRover-AI">Repository ↗</a></p>
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:12px;">
+  <tr>
+    <td style="background:linear-gradient(135deg,rgba(37,99,235,0.16),rgba(124,58,237,0.14)); border-radius:20px; padding:18px;">
+      <h3 style="margin:0 0 8px; color:#F8FAFC;">RUSH-HOUR-GAME</h3>
+      <p style="margin:0 0 10px; color:#DDEBFF;">A retro-style 2D taxi simulator built in x86 Assembly featuring procedural grid generation, dynamic NPC traffic, and a persistent file-based leaderboard.</p>
+      <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/Assembly-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> <img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" /></p>
+      <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/arcade-game-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/assembly-language-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/bubble-sort-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/collision-detection-8B5CF6?style=flat-square" /></p>
+      <p style="margin:0;"><a href="https://github.com/KanwalAi/RUSH-HOUR-GAME">Repository ↗</a></p>
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:12px;">
+  <tr>
+    <td style="background:linear-gradient(135deg,rgba(37,99,235,0.16),rgba(124,58,237,0.14)); border-radius:20px; padding:18px;">
+      <h3 style="margin:0 0 8px; color:#F8FAFC;">Xonix-Game-Development-Project</h3>
+      <p style="margin:0 0 10px; color:#DDEBFF;">A modular C++ arcade game featuring territory-claiming mechanics, multi-player co-op, and time-based difficulty scaling powered by dynamic collision logic.</p>
+      <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/Makefile-4F46E5?style=flat-square" /> <img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> <img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" /></p>
+      <p style="margin:0 0 10px;"><img src="https://img.shields.io/badge/arcade-game-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/collision-detection-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/cplusplus-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/cpp-8B5CF6?style=flat-square" /></p>
+      <p style="margin:0;"><a href="https://github.com/KanwalAi/Xonix-Game-Development-Project">Repository ↗</a></p>
     </td>
   </tr>
 </table>
