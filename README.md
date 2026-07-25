@@ -1,15 +1,38 @@
+<!--
+  KANWAL FATIMA — GITHUB PROFILE README
+  --------------------------------------
+  SETUP:
+  1. Create a repo named EXACTLY "KanwalAi" (same as your GitHub username).
+  2. Upload the WHOLE "assets" folder (including hero-banner.svg) into that repo,
+     keeping the same folder structure, then save this file as README.md.
+  3. The hero banner numbers (7+ repos, 50+ commits, etc.) are hand-set, not live —
+     open assets/hero-banner.svg in a text editor and edit the <text> values
+     directly if your real counts change. The live widgets further down update
+     themselves automatically, no editing needed.
+  4. Swap the "Fun Facts" bullets for your own.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Kanwal%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="./assets/hero-banner.svg" width="100%" alt="Kanwal Fatima — AI Enthusiast, Developer, Robotics Tinkerer"/>
 
-<img src="./assets/profile.jpg" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Kanwal Fatima"/>
+</div>
 
-<h3>AI Student @ FAST-NUCES · Full-Stack Developer · Robotics Tinkerer</h3>
+<br/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A5CFF&center=true&vCenter=true&width=600&lines=Building+things+that+move%2C+think%2C+and+ship;C%2B%2B+by+day%2C+PHP+by+midnight;Currently+debugging+a+robot+%F0%9F%A4%96" alt="Typing SVG" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kanwal-fatima-72a352357/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:kanwal.ai.pk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/KanwalAi" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=KanwalAi&color=8a5cff&style=flat-square&label=Profile+Views"/>
 <img src="https://img.shields.io/github/followers/KanwalAi?label=Followers&style=flat-square&color=8a5cff"/>
@@ -31,7 +54,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📊 GitHub Stats
+### 📊 Live GitHub Stats
 
 <div align="center">
 
@@ -59,7 +82,7 @@
 
 </div>
 
-> 🕒 `utcOffset=5` is set for Pakistan Standard Time — this card shows what hours you code most.
+> 🕒 `utcOffset=5` is set for Pakistan Standard Time.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -81,28 +104,6 @@
 
 > ⚙️ Setup: Settings → Actions → add the free **Platane/snk** action to this repo.
 > https://github.com/Platane/snk
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -180,24 +181,6 @@ Classic Xonix rebuilt with multiplayer support, dynamic difficulty, and a modula
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 🔗 Connect With Me
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/kanwal-fatima-72a352357/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kanwal.ai.pk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/KanwalAi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
 </div>
