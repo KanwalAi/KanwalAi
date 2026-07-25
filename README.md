@@ -1,95 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6FF0,100:4F8EF7&height=140&section=header&text=Kanwal%20Fatima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
+<!-- Animated gradient greeting -->
+<a href="https://github.com/KanwalAi">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kanwal+Fatima;Building+Intelligent+Systems;AI+%7C+Robotics+%7C+Embedded+Tech" alt="Typing SVG" />
+</a>
 
-**Artificial Intelligence Undergraduate&nbsp;•&nbsp;Full-Stack Engineer&nbsp;•&nbsp;Robotics Practitioner**
+<p>
+  <img src="https://img.shields.io/badge/FAST--NUCES-4F46E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Student-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-FACC15?style=for-the-badge&logoColor=333" />
+  <img src="https://img.shields.io/badge/Robotics-4F46E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20AI-7C3AED?style=for-the-badge&logoColor=white" />
+</p>
 
-Engineering intelligent, efficient systems at the confluence of Artificial Intelligence, Robotics, and Web Development — translating theory into deployable, real-world practice.
+<p>
+  <a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-REPLACE_ME.com"><img src="https://img.shields.io/badge/Portfolio-FACC15?style=flat-square&logo=vercel&logoColor=333" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/kanwal-fatima-72a352357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kanwal.ai.pk@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/KanwalAi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-111827?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-7C6FF0?style=flat-square&logo=vercel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/📍-Islamabad,_Pakistan-EDE9FE?style=flat-square&labelColor=EDE9FE&color=5b21b6"/>
+<!-- Banner placeholder — drop your artwork at assets/banner.png -->
+<a href="#">
+  <img src="assets/banner.png" alt="banner" width="720" style="border-radius:16px;" />
+</a>
 
 </div>
 
 <br/>
 
-## About Me
+## 💡 About Me
 
-I'm a BS Artificial Intelligence undergraduate at FAST-NUCES, Islamabad, with a demonstrated aptitude for robotics, embedded systems, and full-stack engineering. I'm committed to converting abstract concepts into deployable, real-world software — currently exhibiting at the PAI & IDS Robotics Exhibition and volunteering as a student tutor at Pehli Kiran School.
+<table>
+<tr><td>
 
-**Core Competencies**
+- 🎓 BS Artificial Intelligence student at **FAST-NUCES, Islamabad**
+- 🤖 Passionate about **AI, Robotics, Computer Vision & Embedded Systems**
+- 🛠️ Building real-world projects with ROS2, Python, C++ and C#
+- 📚 Always learning — currently deep in autonomous systems
 
-![Python](https://img.shields.io/badge/Python-EDE9FE?style=flat-square&logo=python&logoColor=3776AB&labelColor=EDE9FE&color=5b21b6)
-![C#](https://img.shields.io/badge/C%23-DBEAFE?style=flat-square&logo=csharp&logoColor=239120&labelColor=DBEAFE&color=1d4ed8)
-![C++](https://img.shields.io/badge/C++-FCE7F3?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=FCE7F3&color=be185d)
-![PHP](https://img.shields.io/badge/PHP-DCFCE7?style=flat-square&logo=php&logoColor=777BB4&labelColor=DCFCE7&color=15803d)
-![JavaScript](https://img.shields.io/badge/JavaScript-FEF3C7?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=FEF3C7&color=92400e)
-![MySQL](https://img.shields.io/badge/MySQL-E0F2FE?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=E0F2FE&color=0369a1)
-![Arduino](https://img.shields.io/badge/Arduino-FFE4E6?style=flat-square&logo=arduino&logoColor=00979D&labelColor=FFE4E6&color=9f1239)
-![Git](https://img.shields.io/badge/Git-F3F4F6?style=flat-square&logo=git&logoColor=F05032&labelColor=F3F4F6&color=374151)
+</td></tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
+
+<!--START_TECH_STACK-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,php,react,bootstrap,mysql,git,github,vscode,visualstudio,arduino,linux,tensorflow,opencv" />
+</p>
+<sub>Auto-detected from public repositories via GitHub Linguist &amp; manifest scanning — see <code>scripts/update-readme.mjs</code>. Last refresh handled by the scheduled workflow.</sub>
+<!--END_TECH_STACK-->
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="70" align="center"><img src="https://img.shields.io/badge/-%3E__-1B1E30?style=for-the-badge"/></td>
-<td>
-<a href="https://github.com/KanwalAi/OpticCLI"><b>OpticCLI</b></a> — AI-assisted command-line assistant for natural-language driven workflow automation.
-<br/><sub>C# · .NET · AI APIs · Automation</sub>
-</td>
-</tr>
-<tr>
-<td width="70" align="center"><img src="https://img.shields.io/badge/-🚗-DBEAFE?style=for-the-badge"/></td>
-<td>
-<a href="https://github.com/KanwalAi/RainRover"><b>RainRover</b></a> — Autonomous, self-parking robotic vehicle with weather-responsive rooftop automation.
-<br/><sub>Arduino · Sensors · Servo · Motor Driver</sub>
-</td>
-</tr>
-<tr>
-<td width="70" align="center"><img src="https://img.shields.io/badge/-🏃-DCFCE7?style=for-the-badge"/></td>
-<td>
-<a href="https://github.com/KanwalAi/Subway-Surfers-2D"><b>Subway Surfers 2D</b></a> — Object-oriented endless runner engineered with inheritance, polymorphism, and state machines.
-<br/><sub>C++ · SFML · OOP</sub>
-</td>
-</tr>
-</table>
+<!--START_PROJECTS-->
+<sub>This section is populated automatically from pinned repositories on each scheduled run.</sub>
+<!--END_PROJECTS-->
 
-<div align="center"><a href="https://github.com/KanwalAi?tab=repositories"><b>View more projects on GitHub →</b></a></div>
+<p align="center">
+  <a href="https://github.com/KanwalAi?tab=repositories"><b>View all repositories →</b></a>
+</p>
 
 <br/>
 
 ## 📊 GitHub Stats
-<sub>Live data, pulled fresh from the GitHub API on every profile view.</sub>
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4F46E5&icon_color=7C3AED&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=compact&hide_border=true&bg_color=ffffff&title_color=4F46E5&text_color=333333" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&title_color=5b21b6&icon_color=7C6FF0&text_color=374151&bg_color=ffffff"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=pie&theme=default&hide_border=true&title_color=5b21b6&text_color=374151&bg_color=ffffff"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&hide_border=true&background=FFFFFF&ring=7C3AED&fire=FACC15&currStreakLabel=4F46E5" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&theme=default&hide_border=true&background=ffffff&ring=7C6FF0&fire=7C6FF0&currStreakLabel=5b21b6"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanwalAi&bg_color=ffffff&color=4F46E5&line=7C3AED&point=FACC15&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KanwalAi&color=7C3AED&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/KanwalAi?label=Followers&style=flat-square&color=4F46E5" />
+</p>
 
-<details>
-<summary><b>Contribution activity (click to expand)</b></summary>
+<!-- Contribution snake — generated nightly by the workflow -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanwalAi/KanwalAi/output/github-contribution-grid-snake.svg" />
+</p>
+
 <br/>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanwalAi&theme=github_light"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanwalAi&theme=minimal&hide_border=true"/>
-</div>
-</details>
+
+## 🧭 Current Focus
+
+```text
+2026  ── ROS2 & Autonomous Robotics
+2026  ── Embedded AI on microcontrollers
+2026  ── Computer Vision (OpenCV / YOLO)
+```
 
 <br/>
 
-<div align="center">
+## 📌 Recent Activity
 
-*"Code is not just my skill — it is how I solve problems and create impact."*
+<!--START_SECTION:activity-->
+<!-- filled automatically by jamesgeorge007/github-activity-readme -->
+<!--END_SECTION:activity-->
 
-**Let's connect and build something exceptional ✨**
+<br/>
 
-</div>
+## 💬 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+<br/>
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-REPLACE_ME.com"><img src="https://img.shields.io/badge/Portfolio-FACC15?style=for-the-badge&logo=vercel&logoColor=333" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
