@@ -187,10 +187,7 @@ function buildTechStackBlock(languageIcons, manifestIcons) {
 
 function buildProjectsBlock(pinned) {
   const cards = pinned.map((repo) => {
-    const updated = new Date(repo.updatedAt).toISOString().slice(0, 10);
     const languageBadge = `<img src="https://img.shields.io/badge/${encodeURIComponent(repo.primaryLanguage?.name || "N/A")}-4F46E5?style=flat-square" />`;
-    const starsBadge = `<img src="https://img.shields.io/badge/⭐-${repo.stargazerCount}-FACC15?style=flat-square" />`;
-    const updatedBadge = `<img src="https://img.shields.io/badge/updated-${updated}-7C3AED?style=flat-square" />`;
     const topics = (repo.repositoryTopics?.nodes || [])
       .map((node) => node.topic?.name)
       .filter(Boolean)
@@ -213,7 +210,7 @@ function buildProjectsBlock(pinned) {
       '    <td style="background:linear-gradient(135deg,rgba(37,99,235,0.16),rgba(124,58,237,0.14)); border-radius:20px; padding:18px;">',
       `      <h3 style="margin:0 0 8px; color:#F8FAFC;">${repo.name}</h3>`,
       `      <p style="margin:0 0 10px; color:#DDEBFF;">${repo.description || "No description provided."}</p>`,
-      `      <p style="margin:0 0 10px;">${languageBadge} ${starsBadge} ${updatedBadge}</p>`,
+      `      <p style="margin:0 0 10px;">${languageBadge}</p>`,
       topicBadges ? `      <p style="margin:0 0 10px;">${topicBadges}</p>` : "",
       `      <p style="margin:0;">${links}</p>`,
       "    </td>",
