@@ -38,8 +38,6 @@ const LANGUAGE_TO_SKILLICON = {
   Jupyter: "py",
 };
 
-// package manifest -> extra skillicons to surface (frameworks/tools that
-// don't show up as a GitHub "language").
 const MANIFEST_HINTS = [
   { file: "package.json", pattern: /"react"/, icon: "react" },
   { file: "package.json", pattern: /"next"/, icon: "next" },
@@ -48,6 +46,9 @@ const MANIFEST_HINTS = [
   { file: "requirements.txt", pattern: /torch/i, icon: "pytorch" },
   { file: "package.xml", pattern: /ros/i, icon: "ros" },
   { file: "CMakeLists.txt", pattern: /catkin|ament_cmake/i, icon: "ros" },
+  { file: "package.json", pattern: /"tailwindcss"/, icon: "tailwind" },
+  { file: "package.json", pattern: /"fastapi"/, icon: "fastapi" },
+  { file: "package.json", pattern: /"express"/, icon: "nodejs" },
 ];
 
 async function fetchPinnedRepos() {
@@ -60,9 +61,17 @@ async function fetchPinnedRepos() {
               name
               description
               url
+              homepageUrl
               stargazerCount
               updatedAt
               primaryLanguage { name }
+              repositoryTopics(first: 6) {
+                nodes {
+                  topic {
+                    name
+                  }
+                }
+              }
             }
           }
         }
@@ -104,29 +113,82 @@ async function detectManifestIcons(repos) {
 
 function buildTechStackBlock(languageIcons, manifestIcons) {
   const icons = [...new Set([...languageIcons, ...manifestIcons])];
+  const groups = [
+    {
+      title: "Languages",
+      icons: icons.filter((icon) => ["py", "cpp", "cs", "js", "ts", "java", "go", "rust", "c", "php", "html", "css", "bash"].includes(icon)),
+    },
+    {
+      title: "Frontend",
+      icons: icons.filter((icon) => ["react", "next", "tailwind", "html", "css", "js", "ts"].includes(icon)),
+    },
+    {
+      title: "Backend",
+      icons: icons.filter((icon) => ["nodejs", "fastapi", "php"].includes(icon)),
+    },
+    {
+      title: "AI / ML",
+      icons: icons.filter((icon) => ["tensorflow", "opencv", "pytorch", "py"].includes(icon)),
+    },
+    {
+      title: "Embedded",
+      icons: icons.filter((icon) => ["ros", "cpp", "c"].includes(icon)),
+    },
+    {
+      title: "Tools",
+      icons: icons.filter((icon) => ["bash", "git", "docker"].includes(icon)),
+    },
+  ].filter((group) => group.icons.length);
+
+  const rendered = groups
+    .map(
+      (group) => `<p align="center"><b>${group.title}</b> · <img src="https://skillicons.dev/icons?i=${group.icons.join(",")}" /></p>`
+    )
+    .join("\n");
+
   return [
-    '<p align="center">',
-    `  <img src="https://skillicons.dev/icons?i=${icons.join(",")}" />`,
-    "</p>",
-    "<sub>Auto-detected from public repositories via GitHub Linguist &amp; manifest scanning — see <code>scripts/update-readme.mjs</code>. Last refresh handled by the scheduled workflow.</sub>",
+    '<p align="center" style="color:#A5B4FC;">Auto-detected from repositories and manifest files.</p>',
+    rendered,
   ].join("\n");
 }
 
 function buildProjectsBlock(pinned) {
   const cards = pinned.map((repo) => {
     const updated = new Date(repo.updatedAt).toISOString().slice(0, 10);
+    const languageBadge = `<img src="https://img.shields.io/badge/${encodeURIComponent(repo.primaryLanguage?.name || "N/A")}-4F46E5?style=flat-square" />`;
+    const starsBadge = `<img src="https://img.shields.io/badge/⭐-${repo.stargazerCount}-FACC15?style=flat-square" />`;
+    const updatedBadge = `<img src="https://img.shields.io/badge/updated-${updated}-7C3AED?style=flat-square" />`;
+    const topics = (repo.repositoryTopics?.nodes || [])
+      .map((node) => node.topic?.name)
+      .filter(Boolean)
+      .slice(0, 4);
+    const topicBadges = topics.length
+      ? topics
+          .map((topic) => `<img src="https://img.shields.io/badge/${encodeURIComponent(topic)}-8B5CF6?style=flat-square" />`)
+          .join(" ")
+      : "";
+    const links = [
+      `<a href="${repo.url}">Repository ↗</a>`,
+      repo.homepageUrl ? `<a href="${repo.homepageUrl}">Demo ↗</a>` : null,
+    ]
+      .filter(Boolean)
+      .join(" · ");
+
     return [
-      "<table><tr><td>",
-      `<h3>${repo.name}</h3>`,
-      `<p>${repo.description || "No description provided."}</p>`,
-      `<img src="https://img.shields.io/badge/${encodeURIComponent(repo.primaryLanguage?.name || "N/A")}-4F46E5?style=flat-square" /> `,
-      `<img src="https://img.shields.io/badge/⭐-${repo.stargazerCount}-FACC15?style=flat-square" /> `,
-      `<img src="https://img.shields.io/badge/updated-${updated}-7C3AED?style=flat-square" />`,
-      `<br/><a href="${repo.url}"><b>View Repository →</b></a>`,
-      "</td></tr></table>",
-    ].join("\n");
+      '<table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:12px;">',
+      '  <tr>',
+      '    <td style="background:linear-gradient(135deg,rgba(37,99,235,0.16),rgba(124,58,237,0.14)); border-radius:20px; padding:18px;">',
+      `      <h3 style="margin:0 0 8px; color:#F8FAFC;">${repo.name}</h3>`,
+      `      <p style="margin:0 0 10px; color:#DDEBFF;">${repo.description || "No description provided."}</p>`,
+      `      <p style="margin:0 0 10px;">${languageBadge} ${starsBadge} ${updatedBadge}</p>`,
+      topicBadges ? `      <p style="margin:0 0 10px;">${topicBadges}</p>` : "",
+      `      <p style="margin:0;">${links}</p>`,
+      "    </td>",
+      "  </tr>",
+      "</table>",
+    ].filter(Boolean).join("\n");
   });
-  return cards.join("\n\n");
+  return cards.join("\n");
 }
 
 function replaceBetween(source, startMarker, endMarker, replacement) {
