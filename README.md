@@ -1,126 +1,75 @@
-<div align="center">
+--> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Kanwal%20Fatima&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Artificial%20Intelligence%20Student%20%7C%20Software%20Developer&descAlignY=52&descSize=18" width="100%"/> <!-- Profile photo — upload your photo to /assets/profile.jpg in this repo --> <img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Kanwal Fatima"/> <br/> <a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2CE8B5&center=true&vCenter=true&width=650&lines=AI+Student+at+FAST-NUCES;Full-Stack+Web+Developer;Robotics+%26+Embedded+Systems;Game+Developer+(C%2B%2B+%2F+SFML);x86+Assembly+Programmer" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-2CE8B5?style=flat-square&labelColor=0f2027"/> <img src="https://komarev.com/ghpvc/?username=KanwalAi&color=2ce8b5&style=flat-square&label=Profile+Views"/> <img src="https://img.shields.io/github/followers/KanwalAi?label=Followers&style=flat-square&color=2ce8b5"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+👩‍💻 About Me
+🎓 B.S. Artificial Intelligence @ FAST-NUCES, Islamabad (2024 – Present)
+🛠️ Hands-on across Full-Stack Web Development, Game Development, Robotics & Systems Programming
+🤖 Exhibited an autonomous Arduino robot at the PAI & IDS Robotics Exhibition
+📚 Volunteer tutor — broke down complex subjects for diverse learners at Pehli Kiran School
+💬 Ask me about PHP/MySQL apps, C++ game dev with SFML, or Arduino robotics
+📫 kanwal.ai.pk@gmail.com
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🛠️ Tech Stack
 
-<!-- HERO BANNER (edit text params in the URL, or swap for a Canva/Figma PNG) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Student%20%7C%20Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+Languages
 
-<!-- TYPING ANIMATION -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Student;Frontend+Developer;React+%2B+JavaScript+%2B+Python;Open+Source+Learner" alt="Typing SVG" />
-</a>
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-</div>
+Web & Frameworks
 
----
+Show Image Show Image Show Image Show Image
 
-### 🚀 About Me
-- 🎓 AI Student focused on practical, applied machine learning
-- 💻 Frontend Developer — React, JavaScript, Python
-- 🌱 Currently exploring open-source contribution
-- 📫 Reach me at **YOUR_EMAIL@example.com**
+Robotics & Embedded
 
----
+Show Image Show Image Show Image
 
-### 🛠️ Tech Stack
+Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Show Image Show Image Show Image Show Image Show Image
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+📊 GitHub Stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&theme=chartreuse-dark&hide_border=true&background=0d1117" /> <img src="https://github-profile-trophy.vercel.app/?username=KanwalAi&theme=chartreuse-dark&no-frame=true&row=1&column=6" /> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/KanwalAi/KanwalAi/output/github-contribution-grid-snake.svg" /> </div>
 
-### 📊 GitHub Stats
+⚙️ Setup: Settings → Actions → add the free Platane/snk action to this repo. It auto-generates the snake above from your contribution graph on a schedule. https://github.com/Platane/snk
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🌟 Featured Projects
+<table> <tr> <td width="50%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+🤖 RainRover — Autonomous Vehicle Arduino Sensors Servo Motor Driver Self-parking IR line-following robot with a rain sensor that auto-triggers a convertible rooftop. Exhibited at the PAI & IDS Robotics Exhibition.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</td> <td width="50%">
 
-</div>
+⚡ OpticCLI — AI CLI Assistant C# .NET AI APIs Automation An AI-powered command-line assistant that understands natural language commands and automates developer workflows.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+</td> </tr> <tr> <td width="50%">
 
----
+🛒 ElectroStore — E-Commerce Platform PHP MySQL Bootstrap JavaScript Full-stack store with customer & admin modules, secure session auth, product filtering, and order management.
 
-### 🐍 Contribution Snake
+</td> <td width="50%">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</div>
+🍽️ Halal Delights — Food Ordering PHP MySQL Bootstrap PHPMailer Restaurant ordering platform with full CRUD for menus, cart management, and an admin dashboard.
 
-> To make this work, add the free GitHub Action **Platane/snk** to this repo
-> (Settings → Actions), which auto-generates the snake SVG from your
-> contribution graph on a schedule. See: https://github.com/Platane/snk
+</td> </tr> <tr> <td width="50%">
 
----
+🏃 Subway Surfers 2D — Infinite Runner C++ SFML OOP 3-lane endless runner built with inheritance & polymorphism, featuring dynamic obstacles and power-ups.
 
-### 🌟 Featured Projects
+</td> <td width="50%">
 
-<div align="center">
+🚕 Rush Hour Taxi — Assembly Arcade Game x86 Assembly MASM Irvine32 An arcade taxi simulation built entirely in x86 Assembly with file-based leaderboards and sound.
 
-<a href="https://github.com/YOUR_USERNAME/OpticCli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=OpticCli&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/ElectroStore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ElectroStore&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/RainRover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=RainRover&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/Subway-Surfers-SFML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Subway-Surfers-SFML&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/Personal-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Personal-Portfolio&theme=tokyonight&hide_border=true" />
-</a>
+</td> </tr> <tr> <td width="50%" colspan="2">
 
-</div>
+🎮 Xonix — Territory Capture Game C++ SFML Multiplayer OOP Classic Xonix rebuilt with multiplayer support, dynamic difficulty, and a modular multi-file design.
 
----
-
-### 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-### 🎯 Fun Extras
-
-<div align="center">
-
-<!-- Coding activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="100%"/>
-
-<!-- Quote of the day -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
-</div>
+</td> </tr> </table> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🎓 Education & Achievements
+🎓 B.S. Artificial Intelligence — FAST-NUCES, Islamabad (2024 – Expected 2028)
+🏆 PAI & IDS Robotics Exhibition — Participant (ISB FSC Certificate)
+🌱 Volunteer Student Tutor — Pehli Kiran School (Jan – June 2025)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+📈 Coding Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanwalAi&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/> </div> <!-- Optional: connect a WakaTime account, then uncomment this block ### ⏱️ WakaTime Weekly Stats ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_ID&theme=chartreuse-dark&hide_border=true&bg_color=0d1117) --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+🔗 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/kanwal-fatima-72a352357/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kanwal.ai.pk@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/KanwalAi" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </div>
