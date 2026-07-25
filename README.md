@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner1.png" alt="Futuristic AI and robotics banner" width="100%" style="max-width:980px; border-radius:24px; box-shadow:0 18px 60px rgba(77,119,255,0.22);" />
+  <img src="assets/banner.png" alt="Futuristic AI and robotics banner" width="100%" style="max-width:980px; border-radius:24px; box-shadow:0 18px 60px rgba(77,119,255,0.22);" />
 </div>
 
 <p align="center">
