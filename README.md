@@ -22,7 +22,7 @@
 
 <!-- Banner placeholder — drop your artwork at assets/banner.png -->
 <a href="#">
-  <img src="assets/banner.png" alt="banner" width="720" style="border-radius:16px;" />
+  <img src="assets/banner1.png" alt="banner" width="720" style="border-radius:16px;" />
 </a>
 
 </div>
