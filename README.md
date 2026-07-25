@@ -6,31 +6,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=27&duration=2400&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Kanwal+Fatima;Building+Intelligent+Systems;AI+%7C+Robotics+%7C+Software+Engineering" alt="Typing SVG" />
 </p>
 
-<table width="100%" cellpadding="16" cellspacing="0">
-  <tr valign="top">
-    <td width="240" align="center">
-      <img src="https://github.com/KanwalAi.png?size=220" alt="Kanwal Fatima" width="220" style="border-radius:24px; border:1px solid rgba(124,58,237,0.35); box-shadow:0 12px 40px rgba(15,23,42,0.35);" />
-    </td>
-    <td align="left">
-      <p style="margin:0 0 8px; font-size:13px; letter-spacing:0.28em; text-transform:uppercase; color:#7DD3FC;">AI Engineer • Robotics • Software Engineer</p>
-      <h1 style="margin:0 0 10px; font-size:38px; line-height:1.08; color:#F8FAFC;">Kanwal Fatima</h1>
-      <p style="margin:0 0 12px; font-size:20px; color:#C7B8FF; font-weight:600;">Building intelligent systems that move from research to real-world impact.</p>
-      <p style="margin:0 0 16px; line-height:1.7; color:#DDEBFF;">I’m a student and builder exploring artificial intelligence, robotics, computer vision, embedded systems, and desktop software with a strong focus on practical, human-centered tools.</p>
-      <p style="margin:0 0 16px;">
-        <img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-FAST--NUCES%20Islamabad-7C3AED?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Open%20Source-Builder-2563EB?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Desktop%20AI-Active-FACC15?style=for-the-badge&logoColor=333" />
-      </p>
-      <p style="margin:0;">
-        <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/kanwal-fatima-72a352357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/Contact-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center" style="padding:24px 8px 8px;">
+  <p style="margin:0 0 8px; font-size:13px; letter-spacing:0.28em; text-transform:uppercase; color:#7DD3FC;">AI Engineer • Robotics • Software Engineer</p>
+  <h1 style="margin:0 0 10px; font-size:38px; line-height:1.08; color:#F8FAFC;">Kanwal Fatima</h1>
+  <p style="margin:0 0 12px; font-size:20px; color:#C7B8FF; font-weight:600;">Building intelligent systems that move from research to real-world impact.</p>
+  <p style="margin:0 0 16px; line-height:1.7; color:#DDEBFF;">I’m a student and builder exploring artificial intelligence, robotics, computer vision, embedded systems, and desktop software with a strong focus on practical, human-centered tools.</p>
+  <p style="margin:0 0 16px;">
+    <img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-FAST--NUCES%20Islamabad-7C3AED?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Source-Builder-2563EB?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Desktop%20AI-Active-FACC15?style=for-the-badge&logoColor=333" />
+  </p>
+  <p style="margin:0;">
+    <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/kanwal-fatima-72a352357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/Contact-2563EB?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
+  </p>
+</div>
 
 <p align="center" style="margin-top:20px; color:#8BE9FD;">
   ✦ AI • Robotics • Computer Vision • ROS2 • Embedded Systems ✦
