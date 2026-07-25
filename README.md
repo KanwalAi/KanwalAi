@@ -16,18 +16,27 @@
     <img src="https://img.shields.io/badge/Open%20Source-Builder-2563EB?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Desktop%20AI-Active-FACC15?style=for-the-badge&logoColor=333" />
   </p>
-  <p style="margin:0;">
-    <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+ <p style="margin:0;">
+  <a href="https://github.com/KanwalAi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 
-    <a href="https://github.com/KanwalAi/KanwalAi"><img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/KanwalAi?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square&logo=github&logoColor=white" />
+  </a>
 
-    <a href="https://www.linkedin.com/in/kanwal-fatima-72a352357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kanwal-fatima-72a352357">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 
-     <a href="mailto:i243128@isb.nu.edu.pk"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:i243128@isb.nu.edu.pk">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://github.com/KanwalAi/KanwalAi/blob/main/resume/Kanwal_Fatima_Resume.pdf"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-
-  </p>
+  <a href="https://github.com/KanwalAi/KanwalAi/blob/main/resume/Kanwal_Fatima_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 </div>
 
 <p align="center" style="margin-top:20px; color:#8BE9FD;">
