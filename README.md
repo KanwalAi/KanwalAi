@@ -58,23 +58,51 @@
 <p align="center" style="color:#A5B4FC;">Auto-detected from repositories and project manifests.</p>
 
 <!--START_TECH_STACK-->
-<p align="center"><b>Languages</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,cpp,cs,php,html,css" /></p>
+<div align="center">
+  
+**Languages**
 
-<p align="center"><b>Frontend</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next" /></p>
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=ts" /> | <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=cs" /> | <img src="https://skillicons.dev/icons?i=php" /> | <img src="https://skillicons.dev/icons?i=html" /> | <img src="https://skillicons.dev/icons?i=css" /> |
+| Python | JavaScript | TypeScript | C++ | C# | PHP | HTML | CSS |
 
-<p align="center"><b>Backend</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,php,fastapi,python" /></p>
+**Frontend**
 
-<p align="center"><b>AI / ML</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,pytorch" /></p>
+| | | | | | |
+|---|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=ts" /> | <img src="https://skillicons.dev/icons?i=html" /> | <img src="https://skillicons.dev/icons?i=css" /> | <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=next" /> |
+| JavaScript | TypeScript | HTML | CSS | React | Next.js |
 
-<p align="center"><b>Embedded & Robotics</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=cpp,c,ros,arduino" /></p>
+**Backend**
 
-<p align="center"><b>Tools & DevOps</b></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=git,docker,bash,cmake" /></p>
+| | | | |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=nodejs" /> | <img src="https://skillicons.dev/icons?i=php" /> | <img src="https://skillicons.dev/icons?i=fastapi" /> | <img src="https://skillicons.dev/icons?i=py" /> |
+| Node.js | PHP | FastAPI | Python |
+
+**AI / ML**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=tensorflow" /> | <img src="https://skillicons.dev/icons?i=opencv" /> | <img src="https://skillicons.dev/icons?i=pytorch" /> |
+| Python | TensorFlow | OpenCV | PyTorch |
+
+**Embedded & Robotics**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=ros" /> | <img src="https://skillicons.dev/icons?i=arduino" /> |
+| C++ | C | ROS | Arduino |
+
+**Tools & DevOps**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=git" /> | <img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=bash" /> | <img src="https://skillicons.dev/icons?i=cmake" /> |
+| Git | Docker | Bash | CMake |
+
+</div>
 <!--END_TECH_STACK-->
 
 <br/>

@@ -114,26 +114,67 @@ async function detectManifestIcons(repos) {
 function buildTechStackBlock(languageIcons, manifestIcons) {
   const icons = [...new Set([...languageIcons, ...manifestIcons])];
   
-  // Map technologies to categories
-  const categoryMap = {
-    Languages: ["py", "js", "ts", "cpp", "cs", "php", "java", "go", "rust", "c", "html", "css", "bash"],
-    Frontend: ["react", "next", "tailwind", "vue", "html", "css", "js", "ts"],
-    Backend: ["nodejs", "fastapi", "php", "py", "java"],
-    "AI / ML": ["py", "tensorflow", "opencv", "pytorch", "ml"],
-    "Embedded & Robotics": ["cpp", "c", "ros", "arduino"],
-    "Tools & DevOps": ["git", "docker", "bash", "cmake"],
+  // Map technologies to names and categories
+  const techMap = {
+    py: { name: "Python", category: "Languages" },
+    js: { name: "JavaScript", category: "Languages" },
+    ts: { name: "TypeScript", category: "Languages" },
+    cpp: { name: "C++", category: "Languages" },
+    cs: { name: "C#", category: "Languages" },
+    c: { name: "C", category: "Languages" },
+    php: { name: "PHP", category: "Languages" },
+    java: { name: "Java", category: "Languages" },
+    go: { name: "Go", category: "Languages" },
+    rust: { name: "Rust", category: "Languages" },
+    html: { name: "HTML", category: "Languages" },
+    css: { name: "CSS", category: "Languages" },
+    bash: { name: "Bash", category: "Languages" },
+    react: { name: "React", category: "Frontend" },
+    next: { name: "Next.js", category: "Frontend" },
+    tailwind: { name: "Tailwind", category: "Frontend" },
+    vue: { name: "Vue", category: "Frontend" },
+    nodejs: { name: "Node.js", category: "Backend" },
+    fastapi: { name: "FastAPI", category: "Backend" },
+    tensorflow: { name: "TensorFlow", category: "AI / ML" },
+    opencv: { name: "OpenCV", category: "AI / ML" },
+    pytorch: { name: "PyTorch", category: "AI / ML" },
+    ros: { name: "ROS", category: "Embedded & Robotics" },
+    arduino: { name: "Arduino", category: "Embedded & Robotics" },
+    git: { name: "Git", category: "Tools & DevOps" },
+    docker: { name: "Docker", category: "Tools & DevOps" },
+    cmake: { name: "CMake", category: "Tools & DevOps" },
   };
 
-  const sections = Object.entries(categoryMap)
-    .map(([title, techList]) => {
-      const sectionIcons = techList.filter((tech) => icons.includes(tech));
-      if (sectionIcons.length === 0) return null;
-      return `<p align="center"><b>${title}</b></p>\n<p align="center"><img src="https://skillicons.dev/icons?i=${sectionIcons.join(",")}" /></p>`;
+  // Group icons by category
+  const groups = {};
+  icons.forEach((icon) => {
+    const tech = techMap[icon];
+    if (tech) {
+      if (!groups[tech.category]) groups[tech.category] = [];
+      groups[tech.category].push({ icon, name: tech.name });
+    }
+  });
+
+  // Define order of categories
+  const categoryOrder = ["Languages", "Frontend", "Backend", "AI / ML", "Embedded & Robotics", "Tools & DevOps"];
+  
+  const sections = categoryOrder
+    .map((category) => {
+      if (!groups[category] || groups[category].length === 0) return null;
+      
+      const techs = groups[category];
+      const cols = techs.length;
+      const cols_header = Array(cols).fill(0).map(() => "|").join(" ");
+      const cols_sep = Array(cols).fill(0).map(() => "|---|").join("");
+      const icons_row = techs.map((t) => `<img src="https://skillicons.dev/icons?i=${t.icon}" />`).join(" | ");
+      const names_row = techs.map((t) => t.name).join(" | ");
+      
+      return `**${category}**\n\n| ${cols_header}\n${cols_sep}|\n| ${icons_row} |\n| ${names_row} |`;
     })
     .filter(Boolean)
     .join("\n\n");
 
-  return sections;
+  return `<div align="center">\n\n${sections}\n\n</div>`;
 }
 
 function buildProjectsBlock(pinned) {
