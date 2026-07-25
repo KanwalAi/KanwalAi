@@ -62,10 +62,45 @@
 
 **Languages**
 
-| | | | | |
-|---||---||---||---||---||
+|  |  |  |  |  |
+|---|---|---|---|---|
 | <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=php" /> | <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=cs" /> | <img src="https://skillicons.dev/icons?i=cpp" /> |
 | Python | PHP | JavaScript | C# | C++ |
+
+**Frontend**
+
+|  |  |  |  |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=ts" /> | <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=next" /> |
+| JavaScript | TypeScript | React | Next.js |
+
+**Backend**
+
+|  |  |  |  |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=nodejs" /> | <img src="https://skillicons.dev/icons?i=php" /> | <img src="https://skillicons.dev/icons?i=fastapi" /> | <img src="https://skillicons.dev/icons?i=py" /> |
+| Node.js | PHP | FastAPI | Python |
+
+**AI / ML**
+
+|  |  |  |  |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=tensorflow" /> | <img src="https://skillicons.dev/icons?i=opencv" /> | <img src="https://skillicons.dev/icons?i=pytorch" /> |
+| Python | TensorFlow | OpenCV | PyTorch |
+
+**Embedded & Robotics**
+
+|  |  |  |  |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=ros" /> | <img src="https://skillicons.dev/icons?i=arduino" /> |
+| C++ | C | ROS | Arduino |
+
+**Tools & DevOps**
+
+|  |  |  |  |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=git" /> | <img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=bash" /> | <img src="https://skillicons.dev/icons?i=cmake" /> |
+| Git | Docker | Bash | CMake |
 
 </div>
 <!--END_TECH_STACK-->
@@ -132,15 +167,15 @@
 ## GitHub Dashboard
 
 <div align="center">
-  <a href="https://github.com/KanwalAi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-KanwalAi-7C3AED?style=for-the-badge&logo=github" alt="Repositories" /></a>
-  <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/GitHub-Profile-2563EB?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
+  <img src="https://img.shields.io/github/followers/KanwalAi?style=for-the-badge&label=Followers&color=7C3AED" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repos/KanwalAi?style=for-the-badge&label=Repositories&color=2563EB" alt="Repositories" />
 </div>
 
 <br/>
 
-<p align="center" style="color:#A5B4FC; font-size:14px;">
-  View my GitHub profile for real-time stats, contributions, and activity.
-</p>
+<div align="center">
+  <a href="https://github.com/KanwalAi"><img src="https://img.shields.io/badge/View%20Profile-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+</div>
 
 <br/>
 
