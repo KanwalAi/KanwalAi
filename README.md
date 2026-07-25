@@ -1,82 +1,33 @@
-<!--
-  KANWAL FATIMA — GITHUB PROFILE README
-  --------------------------------------
-  SETUP:
-  1. Create a repo named EXACTLY "KanwalAi" (same as your GitHub username).
-  2. Save this file inside it as README.md — GitHub shows it on your profile automatically.
-  3. Add your photo: create a folder "assets" in that repo, upload your photo there as
-     "profile.jpg", then the image line below will pick it up automatically.
-  4. Double-check the project repo links near the bottom match your real repo names.
--->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Kanwal%20Fatima&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Artificial%20Intelligence%20Student%20%7C%20Software%20Developer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Kanwal%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-<!-- Profile photo — upload your photo to /assets/profile.jpg in this repo -->
-<img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Kanwal Fatima"/>
+<img src="./assets/profile.jpg" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Kanwal Fatima"/>
 
-<br/>
+<h3>AI Student @ FAST-NUCES · Full-Stack Developer · Robotics Tinkerer</h3>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2CE8B5&center=true&vCenter=true&width=650&lines=AI+Student+at+FAST-NUCES;Full-Stack+Web+Developer;Robotics+%26+Embedded+Systems;Game+Developer+(C%2B%2B+%2F+SFML);x86+Assembly+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A5CFF&center=true&vCenter=true&width=600&lines=Building+things+that+move%2C+think%2C+and+ship;C%2B%2B+by+day%2C+PHP+by+midnight;Currently+debugging+a+robot+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-2CE8B5?style=flat-square&labelColor=0f2027"/>
-<img src="https://komarev.com/ghpvc/?username=KanwalAi&color=2ce8b5&style=flat-square&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/KanwalAi?label=Followers&style=flat-square&color=2ce8b5"/>
+<img src="https://komarev.com/ghpvc/?username=KanwalAi&color=8a5cff&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/KanwalAi?label=Followers&style=flat-square&color=8a5cff"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
-### 👩‍💻 About Me
+### ✨ A few fun facts about me
+*(swap these for your own — placeholders below)*
 
-- 🎓 B.S. Artificial Intelligence @ **FAST-NUCES, Islamabad** (2024 – Present)
-- 🛠️ Hands-on across **Full-Stack Web Development, Game Development, Robotics & Systems Programming**
-- 🤖 Exhibited an autonomous Arduino robot at the **PAI & IDS Robotics Exhibition**
-- 📚 Volunteer tutor — broke down complex subjects for diverse learners at Pehli Kiran School
-- 💬 Ask me about **PHP/MySQL apps, C++ game dev with SFML, or Arduino robotics**
-- 📫 **kanwal.ai.pk@gmail.com**
+- 🤖 I'd rather teach a robot to park itself than parallel park my own car
+- 🎮 I've written a game in **x86 Assembly** — the hard way, on purpose
+- 🧠 Currently studying AI, but I still debug with `print()` statements first
+- ☕ My commits get noticeably messier after midnight
+- 🏆 Exhibited RainRover, my self-parking robot, at a robotics showcase
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Web & Frameworks**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-004E89?style=for-the-badge&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Robotics & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -84,12 +35,41 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=percentile"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&theme=chartreuse-dark&hide_border=true&background=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=pie&theme=radical&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KanwalAi&theme=chartreuse-dark&no-frame=true&row=1&column=6" />
+</div>
+
+### 🗂️ Profile Snapshot
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanwalAi&theme=radical"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanwalAi&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KanwalAi&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanwalAi&theme=radical"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanwalAi&theme=radical&utcOffset=5"/>
+
+</div>
+
+> 🕒 `utcOffset=5` is set for Pakistan Standard Time — this card shows what hours you code most.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+### 🔥 Streak & Trophies
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&theme=radical&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=KanwalAi&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -100,8 +80,29 @@
 </div>
 
 > ⚙️ Setup: Settings → Actions → add the free **Platane/snk** action to this repo.
-> It auto-generates the snake above from your contribution graph on a schedule.
 > https://github.com/Platane/snk
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -175,22 +176,8 @@ Classic Xonix rebuilt with multiplayer support, dynamic difficulty, and a modula
 - 🏆 **PAI & IDS Robotics Exhibition** — Participant (ISB FSC Certificate)
 - 🌱 **Volunteer Student Tutor** — Pehli Kiran School (Jan – June 2025)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 📈 Coding Activity
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanwalAi&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%"/>
-</div>
-
-<!-- Optional: connect a WakaTime account, then uncomment this block
-### ⏱️ WakaTime Weekly Stats
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_ID&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
--->
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -212,5 +199,5 @@ Classic Xonix rebuilt with multiplayer support, dynamic difficulty, and a modula
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </div>
