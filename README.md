@@ -48,7 +48,7 @@
 
 <!--START_TECH_STACK-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,php,react,bootstrap,mysql,git,github,vscode,visualstudio,arduino,linux,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=py,php,js,cs,cpp" />
 </p>
 <sub>Auto-detected from public repositories via GitHub Linguist &amp; manifest scanning — see <code>scripts/update-readme.mjs</code>. Last refresh handled by the scheduled workflow.</sub>
 <!--END_TECH_STACK-->
@@ -58,7 +58,41 @@
 ## 🚀 Featured Projects
 
 <!--START_PROJECTS-->
-<sub>This section is populated automatically from pinned repositories on each scheduled run.</sub>
+<table><tr><td>
+<h3>OpticCli</h3>
+<p>AI-assisted Windows desktop application that translates natural language into PowerShell commands with risk analysis and visual output.</p>
+<img src="https://img.shields.io/badge/C%23-4F46E5?style=flat-square" /> 
+<img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> 
+<img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" />
+<br/><a href="https://github.com/KanwalAi/OpticCli"><b>View Repository →</b></a>
+</td></tr></table>
+
+<table><tr><td>
+<h3>RainRover-AI</h3>
+<p>An autonomous Arduino-powered mobile robot featuring IR-based line following, ultrasonic self-parking algorithms, and a weather-responsive convertible rooftop system integrated through physical AI.</p>
+<img src="https://img.shields.io/badge/C%2B%2B-4F46E5?style=flat-square" /> 
+<img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> 
+<img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" />
+<br/><a href="https://github.com/KanwalAi/RainRover-AI"><b>View Repository →</b></a>
+</td></tr></table>
+
+<table><tr><td>
+<h3>RUSH-HOUR-GAME</h3>
+<p>A retro-style 2D taxi simulator built in x86 Assembly featuring procedural grid generation, dynamic NPC traffic, and a persistent file-based leaderboard.</p>
+<img src="https://img.shields.io/badge/Assembly-4F46E5?style=flat-square" /> 
+<img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> 
+<img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" />
+<br/><a href="https://github.com/KanwalAi/RUSH-HOUR-GAME"><b>View Repository →</b></a>
+</td></tr></table>
+
+<table><tr><td>
+<h3>Xonix-Game-Development-Project</h3>
+<p>A modular C++ arcade game featuring territory-claiming mechanics, multi-player co-op, and time-based difficulty scaling powered by dynamic collision logic.</p>
+<img src="https://img.shields.io/badge/Makefile-4F46E5?style=flat-square" /> 
+<img src="https://img.shields.io/badge/⭐-0-FACC15?style=flat-square" /> 
+<img src="https://img.shields.io/badge/updated-2026-05-30-7C3AED?style=flat-square" />
+<br/><a href="https://github.com/KanwalAi/Xonix-Game-Development-Project"><b>View Repository →</b></a>
+</td></tr></table>
 <!--END_PROJECTS-->
 
 <p align="center">
