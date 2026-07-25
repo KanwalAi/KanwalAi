@@ -113,43 +113,27 @@ async function detectManifestIcons(repos) {
 
 function buildTechStackBlock(languageIcons, manifestIcons) {
   const icons = [...new Set([...languageIcons, ...manifestIcons])];
-  const groups = [
-    {
-      title: "Languages",
-      icons: icons.filter((icon) => ["py", "cpp", "cs", "js", "ts", "java", "go", "rust", "c", "php", "html", "css", "bash"].includes(icon)),
-    },
-    {
-      title: "Frontend",
-      icons: icons.filter((icon) => ["react", "next", "tailwind", "html", "css", "js", "ts"].includes(icon)),
-    },
-    {
-      title: "Backend",
-      icons: icons.filter((icon) => ["nodejs", "fastapi", "php"].includes(icon)),
-    },
-    {
-      title: "AI / ML",
-      icons: icons.filter((icon) => ["tensorflow", "opencv", "pytorch", "py"].includes(icon)),
-    },
-    {
-      title: "Embedded",
-      icons: icons.filter((icon) => ["ros", "cpp", "c"].includes(icon)),
-    },
-    {
-      title: "Tools",
-      icons: icons.filter((icon) => ["bash", "git", "docker"].includes(icon)),
-    },
-  ].filter((group) => group.icons.length);
+  
+  // Map technologies to categories
+  const categoryMap = {
+    Languages: ["py", "js", "ts", "cpp", "cs", "php", "java", "go", "rust", "c", "html", "css", "bash"],
+    Frontend: ["react", "next", "tailwind", "vue", "html", "css", "js", "ts"],
+    Backend: ["nodejs", "fastapi", "php", "py", "java"],
+    "AI / ML": ["py", "tensorflow", "opencv", "pytorch", "ml"],
+    "Embedded & Robotics": ["cpp", "c", "ros", "arduino"],
+    "Tools & DevOps": ["git", "docker", "bash", "cmake"],
+  };
 
-  const rendered = groups
-    .map(
-      (group) => `<p align="center"><b>${group.title}</b> · <img src="https://skillicons.dev/icons?i=${group.icons.join(",")}" /></p>`
-    )
-    .join("\n");
+  const sections = Object.entries(categoryMap)
+    .map(([title, techList]) => {
+      const sectionIcons = techList.filter((tech) => icons.includes(tech));
+      if (sectionIcons.length === 0) return null;
+      return `<p align="center"><b>${title}</b></p>\n<p align="center"><img src="https://skillicons.dev/icons?i=${sectionIcons.join(",")}" /></p>`;
+    })
+    .filter(Boolean)
+    .join("\n\n");
 
-  return [
-    '<p align="center" style="color:#A5B4FC;">Auto-detected from repositories and manifest files.</p>',
-    rendered,
-  ].join("\n");
+  return sections;
 }
 
 function buildProjectsBlock(pinned) {
