@@ -132,20 +132,14 @@
 ## GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&theme=dark&hide_border=true&title_color=7C3AED&icon_color=38BDF8&text_color=DDEBFF&bg_color=1E293B" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=compact&hide_border=true&theme=dark&title_color=7C3AED&text_color=DDEBFF&bg_color=1E293B" alt="Top languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KanwalAi&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" width="48%" style="margin:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanwalAi&layout=compact&theme=dark" alt="Top languages" width="48%" style="margin:10px;" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&hide_border=true&background=1E293B&ring=7C3AED&fire=FACC15&currStreakLabel=8BE9FD&theme=dark" alt="Contribution streak" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanwalAi&bg_color=1E293B&color=7C3AED&line=38BDF8&point=FACC15&hide_border=true&theme=github-dark" alt="Contribution activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanwalAi&theme=dark" alt="GitHub Streak" />
 </p>
 
 <br/>
