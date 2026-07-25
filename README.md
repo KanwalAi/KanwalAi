@@ -1,17 +1,3 @@
-<!--
-  KANWAL FATIMA — GITHUB PROFILE README
-  --------------------------------------
-  SETUP:
-  1. Create a repo named EXACTLY "KanwalAi" (same as your GitHub username).
-  2. Save this file inside it as README.md.
-  3. Replace the "#" next to Portfolio with your real link.
-  4. Confirm the 3 project links (OpticCLI, RainRover, Subway-Surfers-2D) match
-     your actual repo names.
-  Everything below is real markdown/HTML + live widgets fetched from the GitHub
-  API each time your profile loads — nothing here is a static picture, aside
-  from small icons and badges.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6FF0,100:4F8EF7&height=140&section=header&text=Kanwal%20Fatima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
